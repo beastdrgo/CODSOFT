@@ -4,7 +4,7 @@
 </h2>
 
 <div align="center">
-  <img alt="Calculator Demo" src="https://raw.githubusercontent.com/beastdrgo/CODSOFT/main/Task%201%20-%20Calculator/image/calci.png"  />
+  <img alt="Calculator Demo" src="https://raw.githubusercontent.com/beastdrgo/CODSOFT/main/Task%201%20-%20Calculator/image/calci.png" width="700" />
 </div>
 
 <br/>
