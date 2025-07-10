@@ -5,7 +5,7 @@
 </h2>
 
 <div align="center">
-  <img alt="Calculator Demo" src="./Task 1 - Calculator/image/calci.png" />
+  <img alt="Calculator Demo" src="./Task 1 - Calculator/image/calci.png />
 </div>
 
 <br/>
