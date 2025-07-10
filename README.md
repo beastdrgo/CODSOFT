@@ -4,7 +4,7 @@
 </h2>
 
 <div align="center">
-  <img alt="Calculator Demo" src="./calculator-preview.png" />
+  <img alt="Calculator Demo" src="./Calculator/image/calci.png" />
 </div>
 
 <br/>
