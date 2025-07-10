@@ -4,7 +4,8 @@
 </h2>
 
 <div align="center">
-  <img alt="Demo" src="./Task 2 - Portfolio Website/img/pic.png" />
+  <img alt="Demo" src="https://raw.githubusercontent.com/beastdrgo/CODSOFT/main/Task%202%20-%20Portfolio%20Website/img/pic.png" width="100%" />
+
 </div>
 
 <br/>
