@@ -1,11 +1,10 @@
-
 <h2 align="center">
   Calculator Web App - CodSoft Internship<br/>
   <a href="https://your-live-demo-link.vercel.app" target="_blank">Live Demo</a>
 </h2>
 
 <div align="center">
-  <img alt="Calculator Demo" src="./Task 1 - Calculator/image/calci.png />
+  <img alt="Calculator Demo" src="./Task 1 - Calculator/image/calci.png" />
 </div>
 
 <br/>
